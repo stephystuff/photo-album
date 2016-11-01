@@ -1,7 +1,7 @@
-// jshint undef: true, unused: $
 
 (function () {
   'use strict';
+   
 
   // Function for adding zoomed class on images and adding zooming class on main
   $('main')
